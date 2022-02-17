@@ -77,7 +77,7 @@ video {
 }
 .nav ul {
     display: flex;
-    margin-right: 18rem;  
+    margin-right: 15rem;  
 }
 .nav ul li {
     list-style: none;
@@ -96,10 +96,15 @@ video {
     align-items: center;
 }
 .icons i {
+    margin-left: 1rem;
     cursor: pointer;
 }
 .fa-search {
     font-size: 15px;
+    margin-right: 1rem;
+}
+.icons img {
+    width: 30px;
 }
 /* Navbar Styles End Here */
 
